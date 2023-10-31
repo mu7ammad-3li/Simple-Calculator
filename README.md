@@ -23,7 +23,7 @@ This is a simple terminal calculator program created as a part of my C++ learnin
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Compile the program using the following command:
-   ```bash
+   ``` bash
 g++ -std=c++11 -o calculator main.cpp calculator.cpp token_stream.cpp
 ```
 4. Run the program:
@@ -41,7 +41,7 @@ g++ -std=c++11 -o calculator main.cpp calculator.cpp token_stream.cpp
 
 ### Examples
 
-```
+```bash
    SIMPLE CALCULATOR
 
 Type q= to Exit
